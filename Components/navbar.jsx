@@ -82,6 +82,7 @@ const Navbar = () => {
           <Logo>SHOP NFT</Logo>
         </Center>
         <Right>
+          <MenuItem>Create Digital Asset</MenuItem>
           <MenuItem>REGISTER</MenuItem>
           <MenuItem>SIGN IN</MenuItem>
           <MenuItem>
